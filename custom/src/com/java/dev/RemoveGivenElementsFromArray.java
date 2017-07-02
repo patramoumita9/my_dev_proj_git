@@ -1,6 +1,6 @@
 package com.java.dev;
 
-public class RemoveDuplicateElementsFromArray {
+public class RemoveGivenElementsFromArray {
 
 	public static void main(String[] args) {
 		int nums[]={2,3,3,4};
