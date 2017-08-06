@@ -3,7 +3,7 @@ package com.java.dev;
 public class LengthOfLastWord {
 
 	public static void main(String[] args) {
-		String str = " ab  ";
+		String str = " abc  ";
 		System.out.println(lengthOfLastWord(str));
 	}
 
